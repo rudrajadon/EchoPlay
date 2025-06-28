@@ -7,8 +7,11 @@
 ## Deployment
 
 The application is deployed and accessible online:
+
 Frontend: [https://echoplay-frontend.onrender.com](https://echoplay-frontned.onrender.com/)
+
 Admin Panel: [https://echoplay-admin.onrender.com](https://echoplay-admin.onrender.com/list-album)
+
 Backend API: [https://echoplay-backend.onrender.com](https://echoplay-backend.onrender.com/)
 
 ---
@@ -27,7 +30,7 @@ Backend API: [https://echoplay-backend.onrender.com](https://echoplay-backend.on
 
   ![](./assets/admin_upload_page.png)
 
-- **Admin Panel Album - List Page**
+- **Admin Panel - Album List Page**
 
   ![](./assets/admin_album_list_page.png)
 
